@@ -19,7 +19,7 @@ import More from './pages/More/More';
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router> 
         {/* <nav>
           <Link to="/" className='text' >home</Link>
           <Link to='/login' className='text' >Login</Link>
