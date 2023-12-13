@@ -1,3 +1,7 @@
+body{
+  --twitter-color: #50b7f5;
+  --twitter-background: #e6ecf0;
+}
 .App {
   text-align: center;
 }
@@ -35,4 +39,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.login-style{
+  display: flex;
+  justify-content: center;
 }
